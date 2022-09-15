@@ -1,0 +1,19 @@
+{
+  "name": "ppg-p1",
+  "version": "0.0.0",
+  "description": "Practice setting up an Ionic Vue app using TypeScript",
+  "main": "src/api/index.js",
+  "scripts": {
+    "start": "nodemon ./src/api/server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "apachos",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
