@@ -3,8 +3,7 @@
 Practice setting up an Ionic Vue app using TypeScript.
 
 ## Tasks:
-1. Set up the Ionic Vue base application with TypeScript using the [Ionic CLI](https://ionicframework.com/docs/vue/quickstart)
-1. Update the base app generated previously to look and behave like this vanilla JavaScript app [Buzz Off](https://github.com/apachos/buzz-off)
+1. Update this app to look and behave like this vanilla JavaScript app [Buzz Off](https://github.com/apachos/buzz-off)
 1. __BONUS__ convert the [Node](https://nodejs.org/) [Express](https://expressjs.com/) backed to use TypeScript instead of JavaScript
 1. __BONUS__ add a [Jest](https://jestjs.io/) unit test
 1. __BONUS__ add a [Cypress](https://www.cypress.io/) e2e test
