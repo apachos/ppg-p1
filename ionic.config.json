@@ -1,0 +1,7 @@
+{
+  "name": "ppg-p1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
