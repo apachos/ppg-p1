@@ -1,0 +1,27 @@
+html {
+  display: flex;
+  justify-content: center;
+}
+
+html,
+ion-app {
+  background-color: #6072a2;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  min-width: 370px;
+  max-width: 1440px;
+  height: 100vh;
+  margin: auto;
+}
+
+.ion-page,
+ion-router-outlet {
+  overflow: visible !important;
+}
+
+.header-md::after {
+  background: none;
+}
